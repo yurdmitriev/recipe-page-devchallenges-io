@@ -223,7 +223,7 @@ footer a {
     color: inherit;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
     .wrapper {
         margin-top: 1.5em;
     }
